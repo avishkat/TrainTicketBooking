@@ -18,4 +18,6 @@
     <string name="phone">Phone</string>
     <string name="save">Save</string>
     <string name="username_already_exists">Username already exists</string>
+
+    <string name="label_buy_now">Buy Now</string>
 </resources>
