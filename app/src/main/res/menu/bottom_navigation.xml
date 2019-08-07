@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/icons8_ticket_64px_1"
+        android:title="Ticket"/>
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/icons8_order_history_64px"
+        android:title="History"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/icons8_user_64px"
+        android:title="Profile"/>
+</menu>
